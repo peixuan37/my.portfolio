@@ -37,13 +37,11 @@ section {
   width: 150px;
   border-radius: 10px;
 }
-.about img.me {
+.about img.lumi {
   display: block;
   margin: 20px auto;
-  width: 30%;         
-  height: 30%;
-  object-fit: cover;    
-  border-radius: 50%;   
+  width: 200px;         
+  object-fit: cover;      
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
 }
 
